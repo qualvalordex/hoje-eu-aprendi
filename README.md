@@ -25,3 +25,9 @@ _3 pílulas foram adicionadas até o momento..._
 ### Serverless Framework
 
 - [Importar dados de um arquivo .yml dentro de outro](serverless/importar-dados-de-um-arquivo-yml-dentro-de-outro.md)
+
+---
+
+### VS Code
+
+- [Utilizar o Prettier para padronizar o código ao salvar](vscode/utilizar-o-prettier-para-padronizar-o-codigo-ao-salvar.md)
