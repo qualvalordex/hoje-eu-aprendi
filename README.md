@@ -12,6 +12,7 @@ _4 pílulas foram adicionadas até o momento..._
 
 - [asdf](#asdf)
 - [Google Apps Script](#google-apps-script)
+- [NodeJS](#nodejs)
 - [Serverless Framework](#serverless-framework)
 - [VS Code](#vs-code)
 
@@ -26,6 +27,12 @@ _4 pílulas foram adicionadas até o momento..._
 ### Google Apps Script
 
 - [Enviar via requisição HTTP respostas de um formulário do Google Forms](google-apps-script/enviar-via-requisicao-http-respostas-de-um-formulario-do-google-forms.md)
+
+---
+
+### NodeJS
+
+- [Desestruturar um objeto no parâmetro da função](nodejs/desestruturar-um-objeto-no-parametro-da-funcao.md)
 
 ---
 
