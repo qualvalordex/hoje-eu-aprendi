@@ -4,7 +4,7 @@
 
 Este repo é uma coleção de pequenas pílulas de aprendizagem que eu consumi no meu dia-a-dia. A ideia é escrever pequenos textos que descrevam micro-aprendizados sobre diversas linguagens de programação, frameworks e tecnologias do mundo do desenvolvimento de software e infraestrutura.
 
-_4 pílulas foram adicionadas até o momento..._
+_5 pílulas foram adicionadas até o momento..._
 
 ---
 
