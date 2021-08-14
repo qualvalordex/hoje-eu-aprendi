@@ -4,7 +4,7 @@
 
 Este repo é uma coleção de pequenas pílulas de aprendizagem que eu consumi no meu dia-a-dia. A ideia é escrever pequenos textos que descrevam micro-aprendizados sobre diversas linguagens de programação, frameworks e tecnologias do mundo do desenvolvimento de software e infraestrutura.
 
-_5 pílulas foram adicionadas até o momento..._
+_6 pílulas foram adicionadas até o momento..._
 
 ---
 
@@ -33,6 +33,7 @@ _5 pílulas foram adicionadas até o momento..._
 ### NodeJS
 
 - [Desestruturar um objeto no parâmetro da função](nodejs/desestruturar-um-objeto-no-parametro-da-funcao.md)
+- [Tratar erros de http request via axios com try catch](nodejs/tratar-erros-de-http-request-via-axios-com-try-catch.md)
 
 ---
 
