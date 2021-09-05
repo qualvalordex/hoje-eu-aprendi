@@ -4,7 +4,7 @@
 
 Este repo é uma coleção de pequenas pílulas de aprendizagem que eu consumi no meu dia-a-dia. A ideia é escrever pequenos textos que descrevam micro-aprendizados sobre diversas linguagens de programação, frameworks e tecnologias do mundo do desenvolvimento de software e infraestrutura.
 
-_6 pílulas foram adicionadas até o momento..._
+_7 pílulas foram adicionadas até o momento..._
 
 ---
 
@@ -12,6 +12,7 @@ _6 pílulas foram adicionadas até o momento..._
 
 - [asdf](#asdf)
 - [Google Apps Script](#google-apps-script)
+- [Linux](#linux)
 - [NodeJS](#nodejs)
 - [Serverless Framework](#serverless-framework)
 - [VS Code](#vs-code)
@@ -27,6 +28,12 @@ _6 pílulas foram adicionadas até o momento..._
 ### Google Apps Script
 
 - [Enviar via requisição HTTP respostas de um formulário do Google Forms](google-apps-script/enviar-via-requisicao-http-respostas-de-um-formulario-do-google-forms.md)
+
+---
+
+### Linux
+
+- [Criar diretórios recursivamente](linux/criar-diretorios-recursivamente.md)
 
 ---
 
